@@ -1,0 +1,10 @@
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+output {
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: bold;
+  background-color: gold;
+  color: black;
+}
